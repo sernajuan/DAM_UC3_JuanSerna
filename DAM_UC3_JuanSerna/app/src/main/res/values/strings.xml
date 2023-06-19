@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DAM_UC3_JuanSerna</string>
+    <string name="button_entrar">Entrar</string>
+    <string name="text_correo" />
+    <string name="checkboxcerrarsesion">No cerrar sesión</string>
+    <string name="textnombres" />
+    <string name="textapellidos" />
+    <string name="textcorreoregistro" />
+    <string name="buttonregistrar">Registrate</string>
+    <string name="textcontrasena" />
+    <string name="textcontrasenaregistro" />
+</resources>
